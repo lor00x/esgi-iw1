@@ -1,0 +1,5 @@
+package outil
+
+func Utilitaire() {
+
+}
